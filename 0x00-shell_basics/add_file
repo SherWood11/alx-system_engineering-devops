@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Plz inter file name:"
+read var
+echo "[$var] " #!/bin/bash
+""
+vi var
