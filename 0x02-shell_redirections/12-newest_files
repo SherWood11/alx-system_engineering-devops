@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -n 10 | tr " " "\n" | sort -t -k mtime .
+ls -t | head -n 10 | tr " " "\n" | sort -t -k -r  mtime .
