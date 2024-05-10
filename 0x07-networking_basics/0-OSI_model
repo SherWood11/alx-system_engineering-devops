@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # The Bash Script is to write the answers
 printf "2\n2\n"
-
