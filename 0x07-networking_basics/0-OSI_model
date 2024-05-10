@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-# 2 2
+# The Bash Script is to write the answers
+echo "2"
+echo "2"
+
