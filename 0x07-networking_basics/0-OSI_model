@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # The Bash Script is to write the answers
-echo "2"
-echo "2"
+printf "2\n2\n"
 
