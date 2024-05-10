@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# The answers is 1. 2, 2. 2 
-printf "2 2\n"
+2
+2
